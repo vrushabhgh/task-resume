@@ -1,0 +1,75 @@
+img{
+    border-radius: 50%;
+    border: dotted yellow;
+    margin-top: 100px;
+    margin-right: 500px;
+    margin-left: 450px;
+    border-width: 5px;
+}
+.div{
+    background-color: rgb(54, 50, 50);
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.main{
+margin-left: 425px;
+margin-right: 400px;
+margin-top: -100px;
+font-size: 35px;
+padding-left:10px;
+padding-top: 20px;
+
+width: 400px;
+letter-spacing: 10px;
+height: 70px;
+
+}
+.russh{
+    height: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+ }
+ .dog{margin-top: 20px;
+margin-left: 250px;
+margin-right: 100px;
+ }
+ .tag{margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+ }
+ .cont{
+     display: flex;
+     column-count: 2;
+     column-rule-color: gray;
+ }
+ .column1{
+     width: 50%;
+    
+     
+     
+ }
+ .column2{
+     width: 50%;
+    
+ }
+ .profile{
+    font-size: 30px;
+     color: gray;
+    margin-top: -50px;
+    margin-left: 180px;
+    
+ }
+ .skills{
+     margin-left: 100px;
+ }
+ .sill{
+     margin-left: 200px;
+     align-content: flex-end;
+ }
+ .add{
+     margin-left: 100px;
+ }
+ .add1{
+     margin-left: 250px;
+ }
